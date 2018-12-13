@@ -1,0 +1,12 @@
+2018-12-11 18:05:59.462 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				response string: {"status":0,"tinyurl":"https://dwz.cn/FNHb8o6O","longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx2c605206217d88b5\u0026redirect_uri=http://115.28.159.6/cityrun/wechatlogin.action\u0026role_type=1\u0026response_type=code\u0026scope=snsapi_userinfo\u0026state=STATE123qweasd#wechat_redirect","err_msg":""}
+2018-12-11 18:06:00.518 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				tinyurl: https://dwz.cn/FNHb8o6O
+2018-12-11 18:06:36.493 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				response string: {"status":0,"tinyurl":"https://dwz.cn/FNHb8o6O","longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx2c605206217d88b5\u0026redirect_uri=http://115.28.159.6/cityrun/wechatlogin.action\u0026role_type=1\u0026response_type=code\u0026scope=snsapi_userinfo\u0026state=STATE123qweasd#wechat_redirect","err_msg":""}
+2018-12-11 18:06:36.794 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				tinyurl: https://dwz.cn/FNHb8o6O
+2018-12-11 19:09:11.243 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				response string: {"status":0,"tinyurl":"https://dwz.cn/klSFuI90","longurl":"https://www.panda.tv/all?pdt=1.r_1919483.psbar-minimenu.0.1t4q5veco5n","err_msg":""}
+2018-12-11 19:09:11.485 [main] INFO  com.imooc.myo2o.util.baidu.ShortNetAddress -
+				tinyurl: https://dwz.cn/klSFuI90
